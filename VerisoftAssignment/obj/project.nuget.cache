@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmMQgWqpM+prYDckcFypaJ93cZFd9Y1Pjb/t7Ly/aIFbGx+OSr+eN07PlpVU1fPGKWnjCCTGJi3/jdScBaIJNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayas\\OneDrive\\מסמכים\\ציונט\\verisoft\\VerisoftAssignment\\VerisoftAssignment\\VerisoftAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mayas\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\mayas\\.nuget\\packages\\nunit.engine\\3.15.2\\nunit.engine.3.15.2.nupkg.sha512"
+  ],
+  "logs": []
+}
